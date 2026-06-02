@@ -1,4 +1,4 @@
-# Ahmad Faiz Fawzan
+# Ahmad Faiz Fawzan bin Ahmad Zainudin
 
 ## About Me
 
