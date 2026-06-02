@@ -16,12 +16,14 @@ Equipment Maintenance Engineer at PROTON and PhD Researcher focusing on teleoper
 ## Technical Skills
 
 - Python
+- C++
 - ROS
 - UR10e
 - KUKA Robots
 - SolidWorks
 - MATLAB
-- PLC
+- PLC Mitsubishi GX Works 3
+- PLC Siemens
 - Industrial Automation
 
 ## Current Projects
